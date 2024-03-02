@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://ioneliabuzatu.github.io/"><img alt="Website" title="Website" src="https://tinyurl.com/gsarti-shield"></a>
-  <a href="https://www.linkedin.com/in/cristiano-de-nobili/"><img alt="LinkedIn" title="LinkedIn"src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ionelia-b-50869115b/"><img alt="LinkedIn" title="LinkedIn"src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 <!--
